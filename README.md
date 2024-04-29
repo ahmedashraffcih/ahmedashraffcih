@@ -1,12 +1,8 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I opensource stuff and break things :rofl:
 
-## About Me
-
-💡 &nbsp; I'm a Data Engineer at ADCB. \
+💡 &nbsp;I'm a Data Engineer at ADCB. \
 🎓&nbsp;I graduated from Faculty of Computer Science & Artificial Intelligence Helwan University, Cairo (Bachelor of Science in Computer Science).\
-🌱 &nbsp;I'm on track for learning more about Cloud Data Engineering, Propmt Engineering, and Data Managment.\
-✍️ &nbsp;In my free time, I play video games, football and pursue reading as my hobbies.\
+🌱 &nbsp;I'm on track for learning more about Cloud Data Engineering, Propmt Engineering, and Data Management.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at ahmedashraffcih@gmail.com. I'll try to respond as soon as possible!\
 
