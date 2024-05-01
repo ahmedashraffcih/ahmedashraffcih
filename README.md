@@ -8,29 +8,10 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-![Apache Spark](https://img.shields.io/static/v1?style=flat&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=)
-![Microsoft SQL Server](https://img.shields.io/static/v1?style=flat&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=)
-![Linux](https://img.shields.io/static/v1?style=flat&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
-![Apache Airflow](https://img.shields.io/static/v1?style=flat&message=Apache+Airflow&color=017CEE&logo=Apache+Airflow&logoColor=FFFFFF&label=)
-![Apache Kafka](https://img.shields.io/static/v1?style=flat&message=Apache+Kafka&color=231F20&logo=Apache+Kafka&logoColor=FFFFFF&label=)
-![Apache Hadoop](https://img.shields.io/static/v1?style=flat&message=Apache+Hadoop&color=222222&logo=Apache+Hadoop&logoColor=66CCFF&label=)
-![Apache Hive](https://img.shields.io/static/v1?style=flat&message=Apache+Hive&color=222222&logo=Apache+Hive&logoColor=FDEE21&label=)
-
-![dbt](https://img.shields.io/static/v1?style=flat&message=dbt&color=FF694B&logo=dbt&logoColor=FFFFFF&label=)
-![Microsoft Azure](https://img.shields.io/static/v1?style=flat&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
-![Amazon AWS](https://img.shields.io/static/v1?style=flat&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
-![Google Cloud](https://img.shields.io/static/v1?style=flat&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
-
-
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Terraform](https://img.shields.io/static/v1?style=flat&message=Terraform&color=844FBA&logo=Terraform&logoColor=FFFFFF&label=)
-![Jenkins](https://img.shields.io/static/v1?style=flat&message=Jenkins&color=D24939&logo=Jenkins&logoColor=FFFFFF&label=)
-![Docker](https://img.shields.io/static/v1?style=flat&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+● Python, SQL, Shell Programming, SSIS, Airflow, DBT, Power BI
+● Hadoop, Spark, Kafka, Hive, Sqoop and Oozie
+● Terraform, Docker, Jenkins, Git
+● Google Cloud, Azure, AWS
 
 ### 📫 &nbsp; How to reach me:
 
