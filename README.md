@@ -8,10 +8,10 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-● Python, SQL, Shell Programming, SSIS, Airflow, DBT, Power BI
-● Hadoop, Spark, Kafka, Hive, Sqoop and Oozie
-● Terraform, Docker, Jenkins, Git
-● Google Cloud, Azure, AWS
+- Python, SQL, Shell Programming, SSIS, Airflow, DBT, Power BI
+- Hadoop, Spark, Kafka, Hive, Sqoop and Oozie
+- Terraform, Docker, Jenkins, Git
+- Google Cloud, Azure, AWS
 
 ### 📫 &nbsp; How to reach me:
 
