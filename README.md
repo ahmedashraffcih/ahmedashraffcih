@@ -4,7 +4,6 @@
 🎓&nbsp;Graduated from Faculty of Computer Science & Artificial Intelligence Helwan University, Cairo (Bachelor of Science in Computer Science).\
 🌱&nbsp;I'm on track for learning more about Cloud Data Engineering, Propmt Engineering, and Data Management.\
 💬&nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️&nbsp;You can email me at ahmedashraffcih@gmail.com. I'll try to respond as soon as possible!\
 
 ### 🛠 &nbsp;Skills
 
