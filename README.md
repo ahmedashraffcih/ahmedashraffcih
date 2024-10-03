@@ -1,6 +1,6 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-💡&nbsp;I'm a Data Engineer at ADCB. \
+💡&nbsp;I'm a Data Engineer. \
 🎓&nbsp;Graduated from Faculty of Computer Science & Artificial Intelligence Helwan University, Cairo (Bachelor of Science in Computer Science).\
 🌱&nbsp;I'm on track for learning more about Cloud Data Engineering, Propmt Engineering, and Data Management.\
 
